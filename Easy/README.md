@@ -1,5 +1,7 @@
 01.Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
+09.Given an integer x, return true if x is a palindrome, and false otherwise.
+
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements \
 &emsp;&emsp;may be changed. Then return the number of elements in nums which are not equal to val.
 
