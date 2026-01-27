@@ -9,6 +9,9 @@
 &emsp;&emsp;You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. \
 &emsp;&emsp;Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0. 
 
+169.Given an array nums of size n, return the majority element.The majority element is the element that appears more than ⌊n / 2⌋ times. You  \
+&emsp;&emsp;may assume that the majority element always exists in the array.
+
 217.Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 268.Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
