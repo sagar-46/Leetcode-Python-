@@ -5,6 +5,12 @@
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements \
 &emsp;&emsp;may be changed. Then return the number of elements in nums which are not equal to val.
 
+88.You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of \
+&emsp;&emsp;elements in nums1 and nums2 respectively.Merge nums1 and nums2 into a single array sorted in non-decreasing order.The final sorted \
+&emsp;&emsp;array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of \
+&emsp;&emsp;m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. \
+&emsp;&emsp;nums2 has a length of n.
+
 121.You are given an array prices where prices[i] is the price of a given stock on the ith day. \
 &emsp;&emsp;You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. \
 &emsp;&emsp;Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0. 
