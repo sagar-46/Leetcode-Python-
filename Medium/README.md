@@ -6,3 +6,7 @@
 &emsp;&ensp;maximum amount of water a container can store.Notice that you may not slant the container.
 
 53.Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
+75.Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the \
+&emsp;&ensp;colors in the order red, white, and blue.We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.You must \
+&emsp;&ensp;solve this problem without using the library's sort function.
