@@ -13,3 +13,7 @@
 75.Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the \
 &emsp;&ensp;colors in the order red, white, and blue.We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.You must \
 &emsp;&ensp;solve this problem without using the library's sort function.
+
+167.Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a \
+&emsp;&ensp;specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.\
+&emsp;&ensp;Return the indices of the two numbers, index1 and index2, added by one as an integer array [index1, index2] of length 2.
