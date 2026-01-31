@@ -5,6 +5,9 @@
 &emsp;&ensp;(i, height[i]).Find two lines that together with the x-axis form a container, such that the container contains the most water.Return the \
 &emsp;&ensp;maximum amount of water a container can store.Notice that you may not slant the container.
 
+15.Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and \
+&emsp;&ensp;nums[i] + nums[j] + nums[k] == 0.Notice that the solution set must not contain duplicate triplets.
+
 53.Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 75.Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the \
