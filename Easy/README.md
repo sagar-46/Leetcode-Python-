@@ -15,6 +15,8 @@
 &emsp;&emsp;You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. \
 &emsp;&emsp;Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0. 
 
+125.Given a string s, return true if it is a palindrome, or false otherwise.
+
 136.Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.You must implement a \
 &emsp;&emsp;solution with a linear runtime complexity and use only constant extra space.
 
