@@ -17,3 +17,7 @@
 167.Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a \
 &emsp;&ensp;specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.\
 &emsp;&ensp;Return the indices of the two numbers, index1 and index2, added by one as an integer array [index1, index2] of length 2.
+
+287.Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.There is only one \
+&emsp;&ensp;repeated number in nums, return this repeated number.You must solve the problem without modifying the array nums and using only \
+&emsp;&ensp;constant extra space.
