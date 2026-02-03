@@ -23,3 +23,7 @@
 287.Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.There is only one \
 &emsp;&ensp;repeated number in nums, return this repeated number.You must solve the problem without modifying the array nums and using only \
 &emsp;&ensp;constant extra space.
+
+1910.Given two strings s and part, perform the following operation on s until all occurrences of the substring part are removed:Find the \
+&emsp;&ensp;leftmost occurrence of the substring part and remove it from s.Return s after removing all occurrences of part.A substring is a contiguous \
+&emsp;&ensp;sequence of characters in a string.
