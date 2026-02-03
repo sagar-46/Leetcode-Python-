@@ -2,6 +2,8 @@
 
 09.Given an integer x, return true if x is a palindrome, and false otherwise.
 
+14.Write a function to find the longest common prefix string amongst an array of strings.If there is no common prefix, return an empty string "".
+
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements \
 &emsp;&emsp;may be changed. Then return the number of elements in nums which are not equal to val.
 
