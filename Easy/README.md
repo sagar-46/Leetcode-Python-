@@ -34,6 +34,9 @@
 448.Given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not \
 &emsp;&emsp;appear in nums.
 
+876.Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second \
+&emsp;&emsp;middle node.
+
 2965.You are given a 0-indexed 2D integer matrix grid of size n * n with values in the range [1, n2]. Each integer appears exactly once \
 &emsp;&emsp;except a which appears twice and b which is missing. The task is to find the repeating and missing numbers a and b. Return a 0-indexed \
 &emsp;&emsp;integer array ans of size 2 where ans[0] equals to a and ans[1] equals to b.
