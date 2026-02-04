@@ -8,6 +8,8 @@
 15.Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and \
 &emsp;&ensp;nums[i] + nums[j] + nums[k] == 0.Notice that the solution set must not contain duplicate triplets.
 
+49.Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+
 53.Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 75.Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the \
