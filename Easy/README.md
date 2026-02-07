@@ -25,6 +25,8 @@
 169.Given an array nums of size n, return the majority element.The majority element is the element that appears more than ⌊n / 2⌋ times. You  \
 &emsp;&emsp;may assume that the majority element always exists in the array.
 
+206.Given the head of a singly linked list, reverse the list, and return the reversed list.
+
 217.Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 242.Given two strings s and t, return true if t is an anagram of s, and false otherwise.
