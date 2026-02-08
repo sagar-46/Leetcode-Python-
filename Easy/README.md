@@ -22,6 +22,8 @@
 136.Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.You must implement a \
 &emsp;&emsp;solution with a linear runtime complexity and use only constant extra space.
 
+141.Given head, the head of a linked list, determine if the linked list has a cycle in it.
+
 169.Given an array nums of size n, return the majority element.The majority element is the element that appears more than ⌊n / 2⌋ times. You  \
 &emsp;&emsp;may assume that the majority element always exists in the array.
 
