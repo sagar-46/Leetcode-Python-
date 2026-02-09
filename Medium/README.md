@@ -16,6 +16,8 @@
 &emsp;&ensp;colors in the order red, white, and blue.We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.You must \
 &emsp;&ensp;solve this problem without using the library's sort function.
 
+142.Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
+
 151.Given an input string s, reverse the order of the words.Return a string of the words in reverse order concatenated by a single space.
 
 167.Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a \
